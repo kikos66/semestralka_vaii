@@ -1,6 +1,7 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/kikos66/frontend
 [submodule "backend"]
 	path = backend
 	url = https://github.com/kikos66/backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kikos66/frontend
+	branch = main
